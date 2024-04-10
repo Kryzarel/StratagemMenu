@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a67a8e3126e56d94fadb558b1375d330, type: 3}
+  m_Name: Stratagem Database
+  m_EditorClassIdentifier: 
+  stratagems:
+  - {fileID: 11400000, guid: a238eec078251364f9eb3d3410e5614b, type: 2}
+  - {fileID: 11400000, guid: 4a709daa5e80d5b498897d21b1618d72, type: 2}
+  - {fileID: 11400000, guid: 022f10dc05f113e4f8fed951d57b4033, type: 2}
+  - {fileID: 11400000, guid: c304eb1c51811d542aee64e2967d7479, type: 2}
+  - {fileID: 11400000, guid: cb82b176da5283a4c9a0b1fe68661a1c, type: 2}
+  - {fileID: 11400000, guid: 5fc06589647026344adaafbe4a495fa0, type: 2}

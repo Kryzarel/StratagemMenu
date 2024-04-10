@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc53db495bd49224a97df2aab274094a, type: 3}
+  m_Name: Stratagem Data - Eagle 500kg Bomb
+  m_EditorClassIdentifier: 
+  stratagemName: Eagle 500kg Bomb
+  sprite: {fileID: -4091893691116283331, guid: 3e607ac27e4172546815792ec79f9e24, type: 3}
+  code: 0000000003000000010000000100000001000000
